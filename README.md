@@ -58,3 +58,4 @@ I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.c
 <a href="https://graphql.org" target="_blank"><img align="left" src="./images/graphql-plain.svg" alt="GraphQL" height="42px" /></a>
 <a href="https://git-scm.com" target="_blank"><img align="left" src="./images/git-original.svg" alt="Git" height="42px" /></a>
 <a href="https://www.vim.org" target="_blank"><img align="left" src="./images/vim-original.svg" alt="Vim" height="42px" /></a>
+<a href="https://devicon.dev" target="_blank"><img align="left" src="./images/devicon-original.svg" alt="Devicon" height="42px" /></a>
