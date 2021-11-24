@@ -34,10 +34,15 @@ I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.c
 <a href="https://angular.io/" target="_blank"><img align="left" src="./images/angularjs-original.svg" alt="Angular" height="42px" /></a>
 <a href="https://www.electronjs.org" target="_blank"><img align="left" src="./images/electron-original.svg" alt="Electron" height="42px" /></a>
 <a href="https://svelte.dev" target="_blank"><img align="left" src="./images/svelte-original.svg" alt="Svelte" height="42px" /></a>
+<a href="https://sass-lang.com" target="_blank"><img align="left" src="./images/sass-original.svg" alt="Sass" height="42px" /></a>
+<a href="https://tailwindcss.com" target="_blank"><img align="left" src="./images/tailwindcss-plain.svg" alt="Tailwind CSS" height="42px" /></a>
+<a href="https://www.markdownguide.org" target="_blank"><img align="left" src="./images/markdown-original.svg" alt="Markdown" height="42px" /></a>
+<a href="https://jamstack.org" target="_blank"><img align="left" src="./images/jamstack-original.svg" alt="Jamstack" height="42px" /></a>
 <a href="https://go.dev" target="_blank"><img align="left" src="./images/go-original.svg" alt="Go" height="42px" /></a>
 <a href="https://www.java.com/en" target="_blank"><img align="left" src="./images/java-original.svg" alt="Java" height="42px" /></a>
 <a href="http://www.open-std.org/jtc1/sc22/wg14" target="_blank"><img align="left" src="./images/c-original.svg" alt="C" height="42px" /></a>
 <a href="https://fsharp.org" target="_blank"><img align="left" src="./images/fsharp-original.svg" alt="F#" height="42px" /></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp" target="_blank"><img align="left" src="./images/csharp-original.svg" alt="C#" height="42px" /></a>
 <a href="https://www.python.org" target="_blank"><img align="left" src="./images/python-original.svg" alt="Python" height="42px" /></a>
 <a href="https://dart.dev" target="_blank"><img align="left" src="./images/dart-original.svg" alt="Dart" height="42px" /></a>
 <a href="https://flutter.dev" target="_blank"><img align="left" src="./images/flutter-original.svg" alt="Flutter" height="42px" /></a>
