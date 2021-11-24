@@ -7,6 +7,8 @@ I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.c
 
 <br/>
 
+<img align="right" alt="GIF" src="./images/hello.gif" width="360px" />
+
 ### 🧐 More About Me
 
 - 🔭 &nbsp; I'm currently working on some online courses
