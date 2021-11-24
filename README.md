@@ -5,7 +5,7 @@
 
 I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.co) and formerly at [Trusting Social](https://trustingsocial.com) based in HCMC. I love exploring new tech stack and programming languages.
 
-<br/>
+<br>
 
 <img align="right" alt="GIF" src="./images/hello.gif" width="360px" />
 
@@ -58,4 +58,12 @@ I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.c
 <a href="https://graphql.org" target="_blank"><img align="left" src="./images/graphql-plain.svg" alt="GraphQL" height="42px" /></a>
 <a href="https://git-scm.com" target="_blank"><img align="left" src="./images/git-original.svg" alt="Git" height="42px" /></a>
 <a href="https://www.vim.org" target="_blank"><img align="left" src="./images/vim-original.svg" alt="Vim" height="42px" /></a>
-<a href="https://devicon.dev" target="_blank"><img align="left" src="./images/devicon-original.svg" alt="Devicon" height="42px" /></a>
+<a href="https://devicon.dev" target="_blank"><img src="./images/devicon-original.svg" alt="Devicon" height="42px" /></a>
+
+<br>
+
+### ⚡️ Statistics
+
+<img src="https://github-readme-stats.vercel.app/api?username=hdnha11&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime/?username=hdnha11&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hdnha11&layout=compact&langs_count=10&theme=tokyonight" />
