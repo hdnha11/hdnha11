@@ -3,7 +3,7 @@
 <a href="https://www.linkedin.com/in/hoangducnha"><img align="left" alt="linkedin" src="./images/linkedin.svg" height="18px" /></a>
 <a href="https://twitter.com/hdnha"><img alt="twitter" src="./images/twitter.svg" height="18px" /></a>
 
-I am currently a Senior Software Engineer at [Ninja Van](https://tech.ninjavan.co) and formerly at [Trusting Social](https://trustingsocial.com) based in HCMC. I love exploring new tech stack and programming languages.
+I am currently a Senior Software Engineer at [Employment Hero](https://employmenthero.com) and formerly at [Ninja Van](https://tech.ninjavan.co) based in HCMC. I love exploring new tech stack and programming languages.
 
 <br>
 
